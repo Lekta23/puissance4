@@ -3,6 +3,7 @@ Puissance 4 en Javascript
 Author : Emeric Hochart
 Date : 12/01/2019
 Version : 1.1
+Je suis un commentaire
 */
 
 // Fonctions
